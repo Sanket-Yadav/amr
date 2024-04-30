@@ -601,5 +601,6 @@ display:none;
   }
   .mobile_view{
     display:block;
+    font-size:8vw;
   }
 }
