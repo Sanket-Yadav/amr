@@ -591,8 +591,12 @@ h1 {
 }
 
 
+.mobile_view{
+display:none;
+}
+
 @media screen and (max-width:768px) {
-  body{
+  header,main,footer{
     display: none;
   }
   .mobile_view{
